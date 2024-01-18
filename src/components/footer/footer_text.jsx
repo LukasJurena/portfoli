@@ -4,16 +4,16 @@ function Footer_text(){
         <section className="Footer">
             <h2>Kontakt</h2>
             <div className="Footer_text" title="Telefon">
-                Telefon : +420 684 186 897
+                Telefon : +420 731 243 597
             </div>
             <div className="Footer_text" title="Email">
-                Email : jurena.lukas@email.com
+                Email : jurenalukash@gmail.com
             </div>
             <div className="Footer_text" title="Youtube">
-                Youtube : Lukáš Juřena
+                Youtube : Lukash
             </div>
             <div className="Footer_text" title="Instagram">
-                Instagram : lukasjurena
+                Instagram : lukynjurena
             </div>
         </section>
     );
