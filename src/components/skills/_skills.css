@@ -1,0 +1,29 @@
+.Skills {
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    background-color: #354649;
+    color: white;
+    font-size: 18px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.Skills:hover {
+    background-color: #475d64;
+}
+.Skills h2 {
+    padding-left:10px;
+    font-family: "Segoe UI";
+}
+.Skill {
+    font-size: 16px;
+    color: #a3c6c4;
+    line-height: 1.5;
+    padding-left: 15px;
+    padding-bottom: 10px;
+    font-family: "Segoe UI";
+}
+
+
